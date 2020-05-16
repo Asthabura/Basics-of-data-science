@@ -2,7 +2,7 @@ import numpy as np
 a=np.arange(12).reshape(3,4)
 print("Shape of the array")
 print(a.shape)
-print("Size of array")
+print("Size of the array")
 print(a.size)
 print("Slicing of elements of array")
 print(a[0:2,3])
