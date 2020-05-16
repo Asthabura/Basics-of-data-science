@@ -1,5 +1,5 @@
 import numpy as np
-a=np.arange(57,69).reshape(3,4) #converted a bunch on number into a 2d array 
+a=np.arange(57,69).reshape(3,4) #Converted a bunch on number into a 2d array 
 print("Original array")
 print(a)
 print("Updating the array")
